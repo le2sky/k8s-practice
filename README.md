@@ -24,4 +24,4 @@ k8s study repository refer ->[kubernetes docs](https://kubernetes.io/ko/docs/con
 
 ### k8s 모듈
 
-- [클러스터 생성]()
+- [클러스터 생성](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EC%83%9D%EC%84%B1.md)
