@@ -14,6 +14,13 @@ k8s study repository refer ->[kubernetes docs](https://kubernetes.io/ko/docs/con
 컨트롤 플레인은 실행 중인 애플리케이션을 호스팅하기 위해 사용되는 노드와 클러스터를 관리한다.
 ```
 
+## 누군가 디플로이먼트가 뭐냐고 묻는다면?
+
+```
+디플로이먼트는 애플리케이션 인스턴스를 생성하고 업데이트하는 역할을 담당한다
+애플리케이션이 쿠버네티스 상에 배포되려면 지원되는 컨테이너 형식 중 하나로 패키지 되어야한다. 즉, 도커를 쓰라는 말이다.
+```
+
 ## bookmark
 
 ### 기본 개념
@@ -25,3 +32,4 @@ k8s study repository refer ->[kubernetes docs](https://kubernetes.io/ko/docs/con
 ### k8s 모듈
 
 - [클러스터 생성](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EC%83%9D%EC%84%B1.md)
+- [디플로이먼트 생성](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EC%83%9D%EC%84%B1.md)
