@@ -41,4 +41,4 @@ k8s study repository refer ->[kubernetes docs](https://kubernetes.io/ko/docs/con
 
 - [모듈 1. 클러스터 생성](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EC%83%9D%EC%84%B1.md)
 - [모듈 2. 디플로이먼트 생성](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%EB%94%94%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A8%BC%ED%8A%B8/%EB%94%94%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A8%BC%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
-- [모듈 3. 파드와 노드](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%EB%94%94%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A8%BC%ED%8A%B8/%EB%94%94%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A8%BC%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
+- [모듈 3. 파드와 노드](https://github.com/le2sky/kubelearn/blob/documentation/k8s-module/%ED%8C%8C%EB%93%9C%EC%99%80%20%EB%85%B8%EB%93%9C/%ED%8C%8C%EB%93%9C%EC%99%80%20%EB%85%B8%EB%93%9C.md)
